@@ -2,7 +2,7 @@ header_pages:
   - index.md
   - about.md
 
-style: dark
+style: light
 
 plugins:
   - jekyll-seo-tag

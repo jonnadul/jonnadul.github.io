@@ -3,6 +3,4 @@ title: /
 layout: home
 permalink: /
 ---
-
-# Srujan's Tech Blog
-And other rantings...
+{{ site.posts.first.content }}
